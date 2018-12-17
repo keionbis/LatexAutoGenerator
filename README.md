@@ -1,5 +1,6 @@
 # LatexAutoGenerator
 
+
 Requires sublime text 3 to run
 
 only tested on ubuntu 16.04
